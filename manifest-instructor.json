@@ -1,8 +1,8 @@
 {
-  "name": "IMS Portal",
-  "short_name": "IMS Portal",
-  "description": "Instructor Management System - SFT Paper Checking & Management",
-  "start_url": "/#/portal",
+  "name": "IMS Instructor Portal",
+  "short_name": "IMS Instructor",
+  "description": "Instructor Management System - Instructor Portal",
+  "start_url": "/#/instructor/login",
   "display": "standalone",
   "background_color": "#0a0a0f",
   "theme_color": "#0a0a0f",
@@ -17,16 +17,16 @@
   ],
   "shortcuts": [
     {
-      "name": "Admin Portal",
-      "short_name": "Admin",
-      "description": "Open IMS Admin Portal",
-      "url": "/#/admin/login"
-    },
-    {
       "name": "Instructor Portal",
       "short_name": "Instructor",
       "description": "Open IMS Instructor Portal",
       "url": "/#/instructor/login"
+    },
+    {
+      "name": "Admin Portal",
+      "short_name": "Admin",
+      "description": "Open IMS Admin Portal",
+      "url": "/#/admin/login"
     }
   ]
 }

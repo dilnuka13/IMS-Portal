@@ -1,8 +1,8 @@
 {
-  "name": "IMS Portal",
-  "short_name": "IMS Portal",
-  "description": "Instructor Management System - SFT Paper Checking & Management",
-  "start_url": "/#/portal",
+  "name": "IMS Admin Portal",
+  "short_name": "IMS Admin",
+  "description": "Instructor Management System - Admin Portal",
+  "start_url": "/#/admin/login",
   "display": "standalone",
   "background_color": "#0a0a0f",
   "theme_color": "#0a0a0f",
